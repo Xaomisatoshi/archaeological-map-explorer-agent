@@ -1,6 +1,6 @@
 # Archaeological Map Explorer (Arbeitsname)
 
-**Status: Entwurf zur Prüfung.** Dieses Paket beschreibt einen eigenständigen Analyseagenten für algorithmische Kartenerkundung und archäologische Bildanalyse. Es wurde nicht in ChatGPT eingerichtet und nicht in ein GitHub-Repository übertragen.
+**Status: Entwurf zur Prüfung.** Dieses Repository enthält die Spezifikation für einen eigenständigen Analyseagenten für algorithmische Kartenerkundung und archäologische Bildanalyse. Der Agent wurde noch nicht in ChatGPT eingerichtet und verfügt über keine bestätigte Karten- oder Bildintegration.
 
 ## Auftrag
 
@@ -40,8 +40,9 @@ Ein Link allein öffnet dem Agenten keine Google-Maps-Karte und stellt keine Bil
 - [ ] Rechte und Quellenregeln für jeden Datentyp geprüft
 - [ ] Testfälle mit zugelassenen Beispielbildern ausgeführt
 - [ ] Übergabeformat mit GEO und Jeremy abgestimmt
-- [ ] Erst nach separater Freigabe in ein neues Repository übernehmen
+- [ ] Vor einer Einrichtung des Agenten in ChatGPT separate Owner-Freigabe einholen
 
 ## Quellen
 
 Offizielle Quellen und Prüfdatum stehen in [`DATA_ACCESS_RIGHTS.md`](DATA_ACCESS_RIGHTS.md). Links und Nutzungsbedingungen können sich ändern; vor Veröffentlichung erneut prüfen.
+
